@@ -1,6 +1,0 @@
-[submodule "learning-cxx"]
-	path = learning-cxx
-	url = https://github.com/VectorFurit/learning-cxx.git
-[submodule "rustlings"]
-	path = rustlings
-	url = git@github.com:VectorFurit/rustlings.git
